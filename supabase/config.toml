@@ -1,0 +1,7 @@
+project_id = "arzftlgufraobflglisq"
+
+[functions.gemini-chat]
+verify_jwt = false
+
+[functions.generate-resume]
+verify_jwt = false
